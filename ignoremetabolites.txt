@@ -1,0 +1,227 @@
+C00001	H2O
+C00002	ATP
+C00003	NAD+
+C00004	NADH
+C00005	NADPH
+C00006	NADP+
+C00007	Oxygen
+C00008	ADP
+C00009	Orthophosphate
+C00010	CoA
+C00011	CO2
+C00012	Peptide
+C00013	Pyrophosphate
+C00015	UDP
+C00016	FAD
+C00017	Protein
+C00018	Pyridoxal phosphate
+C00020	AMP
+C00023	Iron
+C00027	H2O2
+C00028	Acceptor
+C00030	Reduced acceptor
+C00034	Manganese
+C00035	GDP
+C00038	Zinc
+C00044	GTP
+C00050	Metal
+C00053	3'-Phosphoadenylyl sulfate
+C00054	Adenosine 3',5'-bisphosphate
+C00055	CMP
+C00059	Sulfate
+C00063	CTP
+C00066	tRNA
+C00070	Copper
+C00075	UTP
+C00076	Calcium
+C00080	H+
+C00081	ITP
+C00087	Sulfur
+C00094	Sulfite
+C00104	IDP
+C00115	Chloride
+C00125	Ferricytochrome c
+C00126	Ferrocytochrome c
+C00130	IMP
+C00138	Reduced ferredoxin
+C00139	Oxidized ferredoxin
+C00150	Molybdenum
+C00174	Acid
+C00175	Cobalt
+C00201	Nucleoside triphosphate
+C00205	hn
+C00206	dADP
+C00237	CO
+C00238	Potassium
+C00282	Hydrogen
+C00283	Hydrogen sulfide
+C00286	dGTP
+C00291	Nickel
+C00297	Sulfide
+C00305	Magnesium
+C00320	Thiosulfate
+C00404	(Phosphate)n
+C00454	NDP
+C00698	Cl-
+C00703	Hg2+
+C00704	O2.-
+C00708	Iodide
+C00720	RBr
+C00723	Insulin
+C00742	Fluoride
+C00753	Tungsten
+C00787	tRNA(Tyr)
+C00787	tRNA(Tyr)
+C00824	Iron-sulfur
+C00857	Deamino-NAD+
+C00868	tRNA uridine
+C00886	L-Alanyl-tRNA
+C00923	Ferricytochrome	
+C00924	Ferrocytochrome	
+C00995	Ferricytochrome b1	
+C00996	Ferricytochrome b5	
+C00997	Ferricytochrome c2	
+C00998	Ferrocytochrome b1	
+C00999	Ferrocytochrome b5	
+C01000	Ferrocytochrome c2	
+C01070	Ferricytochrome c-553
+C01071	Ferrocytochrome c-553
+C01318	HX
+C01319	Hg
+C01321	RI
+C01322	RX
+C01324	Bromide
+C01327	HCl
+C01328	HO-
+C01330	Sodium
+C01351	Donor
+C01352	FADH2
+C01382	Iodine
+C01413	Cadmium
+C01522	Pre-tRNA
+C01528	Selenide
+C01529	Selenium
+C01635	tRNA(Ala)
+C01636	tRNA(Arg)
+C01637	tRNA(Asn)
+C01638	tRNA(Asp)
+C01639	tRNA(Cys)
+C01640	tRNA(Gln)
+C01641	tRNA(Glu)
+C01642	tRNA(Gly)
+C01643	tRNA(His)
+C01644	tRNA(Ile)
+C01645	tRNA(Leu)
+C01646	tRNA(Lys)
+C01647	tRNA(Met)
+C01648	tRNA(Phe)
+C01649	tRNA(Pro)
+C01650	tRNA(Ser)
+C01651	tRNA(Thr)
+C01652	tRNA(Trp)
+C01653	tRNA(Val)
+C01763	tRNA TpsiC
+C01764	tRNA UpsiC
+C01931	L-Lysyl-tRNA
+C01977	tRNA guanine
+C01978	tRNA queuine
+C02047	L-Leucyl-tRNA
+C02056	Peptidyl-tRNA
+C02163	L-Arginyl-tRNA(Arg)
+C02211	tRNA precursor
+C02282	Glutaminyl-tRNA
+C02288	Insulin dithiol
+C02342	'Activated' tRNA
+C02377	5-Oxoprolyl-tRNA
+C02412	Glycyl-tRNA(Gly)
+C02430	L-Methionyl-tRNA
+C02553	L-Seryl-tRNA(Ser)
+C02554	L-Valyl-tRNA(Val)
+C02702	L-Prolyl-tRNA(Pro)
+C02764	tRNA pseudouridine
+C02839	L-Tyrosyl-tRNA(Tyr)
+C02869	Oxidized flavodoxin
+C02905	tRNA(Asp)-queuosine
+C02984	L-Aspartyl-tRNA(Asp)
+C02987	L-Glutamyl-tRNA(Glu)
+C02988	L-Histidyl-tRNA(His)
+C02992	L-Threonyl-tRNA(Thr)
+C03024	Reduced flavoprotein
+C03025	Reduced plastocyanin
+C03125	L-Cysteinyl-tRNA(Cys)
+C03127	L-Isoleucyl-tRNA(Ile)
+C03161	Oxidized flavoprotein
+C03162	Oxidized plastocyanin
+C03294	N-Formylmethionyl-tRNA
+C03402	L-Asparaginyl-tRNA(Asn)
+C03446	tRNA containing thymine
+C03511	L-Phenylalanyl-tRNA(Phe)
+C03512	L-Tryptophanyl-tRNA(Trp)
+C03617	L-Methionylaminoacyl-tRNA
+C03880	N-Substituted aminoacyl-tRNA
+C04155	tRNA containing 5-methylcytosine
+C04156	tRNA containing N1-methyladenine
+C04157	tRNA containing N1-methylguanine
+C04158	tRNA containing N2-methylguanine
+C04159	tRNA containing N6-methyladenine
+C04160	tRNA containing N7-methylguanine
+C04161	tRNA containing a thionucleotide
+C04253	Electron-transferring flavoprotein
+C04258	N-Formyl-L-methionylaminoacyl-tRNA
+C04432	tRNA containing 6-isopentenyladenosine
+C04510	tRNA 3-(3-amino-3-carboxypropyl)-uridine
+C04511	tRNA(Asp)-O-5''-beta-D-mannosylqueuosine
+C04545	tRNA containing 2'-O-methylguanosine
+C04570	Reduced electron-transferring flavoprotein
+C04728	tRNA containing 5-methylaminomethyl-2-thiouridylate
+C05156	Aminoacyl-tRNA
+C05157	Peptidyl-aminoacyl-tRNA
+C05173	L-Selenocysteinyl-tRNA(Ser)
+C05336	Selenomethionyl-tRNA(Met)
+C05357	Oxidized azurin
+C05358	Reduced azurin
+C05359	e-
+C05360	Diimine
+C05529	H2S2O3
+C05532	SO2
+C05590	HI
+C05684	Selenite
+C05693	R
+C05694	CH3-R
+C05697	Selenate
+C06112	L-Glutamyl-tRNA(Gln)
+C06113	L-Aspartyl-tRNA(Asn)
+C06259	Ferrocytochrome b
+C06260	Ferricytochrome b
+C06262	Phosphorus
+C06263	Silicon
+C06264	Aluminium
+C06266	Boron
+C06267	Vanadium
+C06268	Chromium
+C06269	Arsenic
+C06481	L-Seryl-tRNA
+C06482	L-Selenocysteinyl-tRNA
+C06696	Lead
+C06697	Arsenite
+C06710	Silver
+C08040	Iodine aqueous
+C08219	Potassium iodide
+C09306	Sulfur dioxide
+C11215	Arsenate ion
+C11478	tRNA containing 5-aminomethyl-2-thiouridine
+C11627	ortho-Vanadate
+C12567	Magnesium oxide
+C12568	Potassium hydroxide
+C13140	Calcium oxide
+C13198	Potassium bromide
+C13373	Xenon
+C13391	Aluminum hydroxide
+C13645	Hydrobromic acid
+C13881	Ba2+
+C13884	Strontium
+C14818	Fe2+
+C14819	Fe3+
+C15471	Bismuth
+C15472	Germanium
+C15473	Lithium
